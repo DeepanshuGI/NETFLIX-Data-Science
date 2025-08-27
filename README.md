@@ -72,8 +72,8 @@ It uses Python data analysis techniques and visualizations to reveal insights in
 </p>
 
 <p align="center">
-  <img src="images/genre_distribution.png" alt="Genre Distribution" width="600"/><br/>
-  <em>Most Popular Genres on Netflix</em>
+  <img src="https://github.com/DeepanshuGI/NETFLIX-Data-Science/blob/master/sentiment%20analysis.png" alt="Sentiment Analysis" width="600"/><br/>
+  <em>Sentiment Analysis</em>
 </p>
 
 <h2>📈 Insights</h2>
