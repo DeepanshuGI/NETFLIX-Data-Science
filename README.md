@@ -67,7 +67,7 @@ It uses Python data analysis techniques and visualizations to reveal insights in
 </p>
 
 <p align="center">
-  <img src="images/top_countries.png" alt="Top Countries" width="600"/><br/>
+  <img src="https://github.com/DeepanshuGI/NETFLIX-Data-Science/blob/master/M%20vs%20T.png" alt="Top Countries" width="600"/><br/>
   <em>Top Countries Producing Netflix Content</em>
 </p>
 
