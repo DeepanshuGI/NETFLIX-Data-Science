@@ -62,7 +62,7 @@ It uses Python data analysis techniques and visualizations to reveal insights in
 <h2>📸 Sample Visualizations</h2>
 
 <p align="center">
-  <img src="https://github.com/DeepanshuGI/NETFLIX-Data-Science/blob/master/movies%20vs%20tv%20shows.png" alt="Movies vs TV Shows" width="600"/><br/>
+  <img src="https://github.com/DeepanshuGI/NETFLIX-Data-Science/blob/master/Distibution.png" alt="Movies vs TV Shows" width="600"/><br/>
   <em>Distribution of Movies vs TV Shows on Netflix</em>
 </p>
 
